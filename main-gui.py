@@ -104,7 +104,7 @@ def do_exit():
         window.destroy()
     
         
-if os.path.exists('words.pk'):
+if not os.path.exists('words.pk'):
     
     dict_file=open('large_pinyin.txt',encoding='utf-8')
     
