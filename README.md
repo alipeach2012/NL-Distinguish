@@ -3,7 +3,7 @@
 因为不同地区的人群对汉语拼音中N和L的分辨能力是不同的，所以本代码用于自行训练对汉语拼音中N和L的训练。本代码中自带的拼音词库来源 https://github.com/mozillazg/phrase-pinyin-data 。
 
 1.代码中，main-gui.py 是编写的图形界面下的训练程序。
-.<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/raw/master/imgs/gui.png"/></div>
+<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/blob/master/imgs/gui.png"/></div>
 
 具体效果可以参见视频 https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/GUI.mp4 
 
