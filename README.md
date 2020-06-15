@@ -3,7 +3,7 @@
 因为不同地区的人群对汉语拼音中N和L的分辨能力是不同的，所以本代码用于自行训练对汉语拼音中N和L的训练。本代码中自带的拼音词库来源 https://github.com/mozillazg/phrase-pinyin-data 。
 
 1.代码中，main-gui.py 是编写的图形界面下的训练程序。
-<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/gui.png"/></div>
+.<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/gui.png"/></div>
 
 具体效果可以参见视频 https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/GUI.mp4 
 
@@ -14,17 +14,17 @@ https://bbs.hassbian.com/thread-7011-1-6.html 的帖子。具体实现效果可�
 其中需要在天猫精灵开者者平台配置如下：
 
 设置实体
-<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/st1.png"/></div>
+.<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/st1.png"/></div>
 
 设置意图
-<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/yt4.png"/></div>
+.<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/yt4.png"/></div>
 其中三个意图分别为回答问题，启动对话，结束对话。具体设置分别如下：
-<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/yt1.png"/></div>
-<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/yt2.png"/></div>
-<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/yt3.png"/></div>
+.<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/yt1.png"/></div>
+.<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/yt2.png"/></div>
+.<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/yt3.png"/></div>
 
 设置回复
-<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/hf.png"/></div>
+.<div align=center><src="https://github.com/alipeach2012/NL-Distinguish/tree/master/imgs/hf.png"/></div>
 指令通过webhook转发，解析结果后将结果反馈给天猫精灵。所以需要有一台服务器，运行main-sever.py程序，并在天猫精灵中设置转发和验证文件。
 
 3.学习设置
